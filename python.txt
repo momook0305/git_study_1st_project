@@ -1,3 +1,8 @@
 덧셈함수:
 def sum(a,b):
 	return a+b
+
+
+뺄셈함수:
+def sub(a,b):
+	return a-b
